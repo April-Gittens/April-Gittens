@@ -50,5 +50,5 @@ $\color{#39FF14}{\text{Maintaining the Awesome Eliza index for the collective.}}
 <p align="center">
   <img src="https://raw.githubusercontent.com/andriish06/andriish06/master/codes.gif" width="100">
   <br>
-  <code>$\color{#39FF14}{\text{𝚂𝚈𝚂𝚃𝙴𝙼 𝚂𝚃𝙰𝚃𝚄𝚂: 𝙾𝙿𝙴𝚁𝙰𝚃𝙸𝙽𝙶 𝙸𝙽 𝚃𝙷𝙴 𝚂𝙷𝙰𝙳𝙾𝚆𝚂... 🟢}}$</code>
+  <code>$𝚂𝚈𝚂𝚃𝙴𝙼 𝚂𝚃𝙰𝚃𝚄𝚂: 𝙾𝙿𝙴𝚁𝙰𝚃𝙸𝙽𝙶 𝙸𝙽 𝚃𝙷𝙴 𝚂𝙷𝙰𝙳𝙾𝚆𝚂... 🟢$</code>
 </p>
