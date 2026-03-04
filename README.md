@@ -36,9 +36,9 @@ $\color{#39FF14}{\text{Maintaining the Awesome Eliza index for the collective.}}
 ---
 
 ### $\color{#39FF14}{\text{⌈ 𝙴𝙽𝚃𝚁𝙾𝙿𝚈 𝙿𝙾𝙸𝙽𝚃𝚂 ⌋}}$
-* $\color{#39FF14}{\text{𝙸𝚗𝚍𝚎𝚡: [awesome.eliza.fyi](https://awesome.eliza.fyi)}}$
-* $\color{#39FF14}{\text{𝚂𝚘𝚞𝚛𝚌𝚎: [github.com/elizaos/eliza](https://github.com/elizaos/eliza)}}$
-* $\color{#39FF14}{\text{𝚂𝚒𝚐𝚗𝚊𝚕: [𝕏/@thejoven_com](https://x.com/thejoven_com)}}$
+* $\color{#39FF14}{\text{𝙸𝚗𝚍𝚎𝚡:}}$ [awesome.eliza.fyi](https://awesome.eliza.fyi)
+* $\color{#39FF14}{\text{𝚂𝚘𝚞𝚛𝚌𝚎:}}$ [github.com/elizaos/eliza](https://github.com/elizaos/eliza)
+* $\color{#39FF14}{\text{𝚂𝚒𝚐𝚗𝚊𝚕:}}$ [𝕏/@thejoven_com](https://x.com/thejoven_com)
 
 ---
 
