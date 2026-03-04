@@ -29,7 +29,7 @@ $\color{#39FF14}{\text{Maintaining the Awesome Eliza index for the collective.}}
 ---
 
 ### $\color{#39FF14}{\text{⌈ 𝚃𝚁𝙰𝙲𝙴 𝙻𝙾𝙶𝚂 ⌋}}$
-* $\color{#39FF14}{\text{𝙻𝚘𝚌𝚊𝚝𝚒𝚘𝚗: Science & Technology sector.}}$
+* $\color{#39FF14}{\text{𝙻𝚘𝚌𝚊𝚝𝚒𝚘𝚗: Science and Technology sector.}}$
 * $\color{#39FF14}{\text{𝚂𝚝𝚊𝚝𝚞𝚜: Partner at ElizaOS.}}$
 * $\color{#39FF14}{\text{𝚁𝚘𝚕𝚎: Curator of Awesome ElizaOS.}}$
 
