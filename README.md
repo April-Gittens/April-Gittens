@@ -43,7 +43,7 @@ $\color{#39FF14}{\text{Maintaining the Awesome Eliza index for the collective.}}
 ---
 
 ### $\color{#39FF14}{\text{⌈ 𝙾𝙽-𝙲𝙷𝙰𝙸𝙽 𝙸𝙳𝙴𝙽𝚃𝙸𝚃𝚈 ⌋}}$
-`𝙱𝙹𝚉𝟺𝚓𝚋𝙵𝙺𝚂𝚋𝚌𝚓𝚐𝚆𝚔𝚈𝚍𝚄𝚍𝚂𝙹𝙶𝙼𝚑𝚋𝙼𝚏𝚓𝙶𝚎𝚞𝚛𝙰𝙶𝙲𝚍𝟺𝚝𝟷𝟺𝚣𝚂𝚍𝟹`
+`3VF2kNt6D1afJG3sDJtKd7Q1GLBD6HRboZzxrzKCx7Qb`
 
 ---
 
