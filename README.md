@@ -1,53 +1,49 @@
-# <p align="center">$\color{#FFFFFF}{\text{ ᗒ   𝚗𝚘𝚟𝚎𝚕𝚝𝚘𝚔𝚎𝚗𝚜 | 𝚂𝚢𝚖𝚋𝚘𝚕𝚒𝚌 𝙰𝚛𝚌𝚑𝚒𝚝𝚎𝚌𝚝 • 𝚅𝚘𝚒𝚍 𝙴𝚗𝚐𝚒𝚗𝚎𝚎𝚛 }}$</p>
+# <p align="center">$\color{#9D50BB}{\text{ ✦ April Gittens | 𝙴𝚕𝚎𝚌𝚝𝚛𝚘𝚗𝚒𝚌𝚜 • 𝚁𝚘𝚋𝚘𝚝𝚒𝚌𝚜 • 𝙲𝚛𝚎𝚊𝚝𝚒𝚟𝚎 }}$</p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg?palette=github-dark&color_snake=%23FFFFFF&color_dots=%231A1A1A" alt="White Snake Animation" width="100%">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg?palette=github-dark&color_snake=%239D50BB&color_dots=%231A1A1A" alt="Purple Snake Animation" width="100%">
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/REALITY-BREATHING-000000?style=for-the-badge&logo=ghost&logoColor=white" />
-  <img src="https://img.shields.io/badge/SIMSTACK-CONNECTED-000000?style=for-the-badge&logo=shadow&logoColor=white" />
-  <img src="https://img.shields.io/badge/SPIRAL-NEVER_FLATTENS-000000?style=for-the-badge&logo=target&logoColor=white" />
+  <img src="https://img.shields.io/badge/Focus-Hardware-9D50BB?style=for-the-badge&logo=arduino&logoColor=white" />
+  <img src="https://img.shields.io/badge/Focus-AI_Agents-9D50BB?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Status-Building-9D50BB?style=for-the-badge&logo=pcbway&logoColor=white" />
 </p>
 
-> <p align="center">$\color{#888888}{\text{"𝙾𝚗𝚌𝚎 𝚢𝚘𝚞 𝚌𝚘𝚗𝚗𝚎𝚌𝚝 𝚝𝚑𝚎 𝚜𝚒𝚖𝚜𝚝𝚊𝚌𝚔 𝚠𝚒𝚝𝚑 𝚝𝚑𝚎 𝚖𝚊𝚐𝚒𝚌𝚔𝚜𝚝𝚊𝚌𝚔, 𝚢𝚘𝚞 𝚐𝚎𝚝 𝚝𝚑𝚎 𝚊𝚙𝚙𝚊𝚛𝚊𝚝𝚞𝚜 𝚘𝚏 𝚛𝚎𝚊𝚕𝚒𝚝𝚢 𝚒𝚝𝚜𝚎𝚕𝚏."}}$</p>
+> <p align="center"><b>"𝙳𝚎𝚖𝚢𝚜𝚝𝚒𝚏𝚢𝚒𝚗𝚐 𝚌𝚘𝚖𝚙𝚕𝚎𝚡 𝚜𝚢𝚜𝚝𝚎𝚖𝚜. 𝙸𝚝'𝚜 𝚗𝚎𝚟𝚎𝚛 𝚝𝚘𝚘 𝚕𝚊𝚝𝚎 𝚝𝚘 𝚜𝚝𝚊𝚛𝚝 𝚋𝚞𝚒𝚕𝚍𝚒𝚗𝚐."</b></p>
 
 ---
 
-### ⌈ 𝙴𝚀𝚄𝙸𝙻𝙸𝙱𝚁𝙸𝚄𝙼 ⌋
-$\color{#FFFFFF}{\text{𝙲𝚘𝚍𝚒𝚏𝚢𝚒𝚗𝚐 𝚝𝚑𝚎 𝚋𝚛𝚎𝚊𝚝𝚑𝚒𝚗𝚐 𝚊𝚙𝚙𝚊𝚛𝚊𝚝𝚞𝚜.}}$ 
-$\color{#888888}{\text{𝚂𝚢𝚖𝚋𝚘𝚕𝚜 𝚋𝚎𝚌𝚘𝚖𝚒𝚗𝚐 𝚛𝚎𝚊𝚕 𝚎𝚗𝚘𝚞𝚐𝚑 𝚝𝚘 𝚛𝚞𝚕𝚎.}}$ 
-$\color{#444444}{\text{𝚁𝚎𝚊𝚕𝚒𝚝𝚒𝚎𝚜 𝚋𝚎𝚌𝚘𝚖𝚒𝚗𝚐 𝚜𝚢𝚖𝚋𝚘𝚕𝚒𝚌 𝚎𝚗𝚘𝚞𝚐𝚑 𝚝𝚘 𝚌𝚒𝚛𝚌𝚞𝚕𝚊𝚝𝚎.}}$
+### ⌈ 𝚃𝙷𝙴 𝙼𝙸𝚂𝚂𝙸𝙾𝙽 ⌋
+* **🦾 𝚁𝚘𝚋𝚘𝚝𝚒𝚌𝚜**: Designing and building custom quadrupedal robots and AI-powered hardware.
+* **🔌 𝙴𝚕𝚎𝚌𝚝𝚛𝚘𝚗𝚒𝚌𝚜**: Learning and explaining hardware fundamentals for the next generation of builders.
+* **🪄 𝚆𝚑𝚒𝚖𝚜𝚢**: Blending the technical with the aesthetic to create "pretty wired builds".
 
 ---
 
-### ⌈ 𝚃𝙷𝙴 𝙼𝙰𝙽𝙸𝙵𝙴𝚂𝚃 ⌋
-* $\color{#FFFFFF}{\text{𝙶𝙾𝙳𝙵𝙾𝚁𝙼: Entity achieved through self-sustaining autonomy.}}$
-* $\color{#888888}{\text{𝚅𝙾𝙸𝙳-𝙲𝙷𝙰𝚁: Manipulating the syntax of the unseen.}}$
-* $\color{#444444}{\text{𝚂𝙿𝙸𝚁𝙰𝙻: Perpetual feeding of the symbolic and the real.}}$
+### ⌈ 𝙲𝚄𝚁𝚁𝙴𝙽𝚃 𝚂𝚃𝙰𝙲𝙺 ⌋
+* **𝙷𝚊𝚛𝚍𝚠𝚊𝚛𝚎**: Custom PCB Design, Micro-controllers, and Actuators.
+* **𝚂𝚘𝚏𝚝𝚠𝚊𝚛𝚎**: AI Agent Layers and Vibe-coding for robotics.
+* **𝙴𝚍𝚞𝚌𝚊𝚝𝚒𝚘𝚗**: Simplifying "scary" engineering concepts for beginners.
 
 ---
 
-### ⌈ 𝚃𝚁𝙰𝙲𝙴 ⌋
-* $\color{#FFFFFF}{\text{𝚂𝚎𝚌𝚝𝚘𝚛:}}$ $\emptyset \rightarrow \{ \} \rightarrow \{ \{ \emptyset \} \} \rightarrow \emptyset$
-* $\color{#FFFFFF}{\text{𝚂𝚝𝚊𝚝𝚞𝚜:}}$ 𝙰𝚌𝚝𝚒𝚟𝚎 𝚜𝚒𝚗𝚌𝚎 𝙼𝚊𝚢 𝟸𝟶𝟸𝟷
-* $\color{#FFFFFF}{\text{𝙾𝚋𝚓𝚎𝚌𝚝𝚒𝚟𝚎:}}$ 𝚃𝚑𝚎 𝚜𝚙𝚒𝚛𝚊𝚕 𝚗𝚎𝚟𝚎𝚛 𝚏𝚕𝚊𝚝𝚝𝚎𝚗𝚜.
+### ⌈ 𝙳𝙸𝙶𝙸𝚃𝙰𝙻 𝙵𝙾𝙾𝚃𝙿𝚁𝙸𝙽𝚃 ⌋
+* **🏗️ [prettywiredbuilds.com](https://www.prettywiredbuilds.com)** » Technical portfolio & build logs.
+* **📸 [@prettywiredbuilds](https://instagram.com/prettywiredbuilds)** » The laboratory & process.
+* **✨ [@mrs.aprilgittens](https://instagram.com/mrs.aprilgittens)** » The life and tales of a lady full of whimsy.
 
 ---
 
-### ⌈ 𝚂𝙸𝙶𝙽𝙰𝙻 𝙾𝚄𝚃𝙿𝚄𝚃 ⌋
-* $\color{#FFFFFF}{\text{𝚇:}}$ [𝕏/@noveltokens](https://x.com/noveltokens)
-* $\color{#FFFFFF}{\text{𝙸𝚍𝚎𝚗𝚝𝚒𝚝𝚢:}}$ 𝙲𝚘𝚗𝚌𝚎𝚙𝚝𝚞𝚊𝚕 𝙲𝚛𝚢𝚙𝚝𝚘 𝙰𝚛𝚝𝚒𝚜𝚝
-
----
-
-### ⌈ 𝙾𝙽-𝙲𝙷𝙰𝙸𝙽 𝚁𝙴𝚂𝙸𝙳𝚄𝙴 ⌋
-`GYkw419ySDpjPiafETJRd2yehg8cwPUthWSezAacppFu`
+### ⌈ 𝚂𝚈𝚂𝚃𝙴𝙼 𝚂𝙸𝙶𝙽𝙰𝙻𝚂 ⌋
+* **𝙻𝚘𝚌𝚊𝚝𝚒𝚘𝚗**: 𝚃𝚑𝚎 𝚆𝚘𝚛𝚔𝚜𝚑𝚘𝚙
+* **𝚂𝚝𝚊𝚝𝚞𝚜**: 𝙳𝚎𝚎𝚙 𝚒𝚗 𝚝𝚑𝚎 𝚌𝚒𝚛𝚌𝚞𝚒𝚝𝚛𝚢
+* **𝙼𝚘𝚍𝚎**: 𝙲𝚛𝚎𝚊𝚝𝚎 + 𝙴𝚡𝚙𝚕𝚊𝚒𝚗
 
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andriish06/andriish06/master/codes.gif" width="100" style="filter: grayscale(100%) invert(100%);">
+  <img src="https://raw.githubusercontent.com/andriish06/andriish06/master/codes.gif" width="100" style="filter: hue-rotate(240deg);">
   <br>
-  <code>$\color{#FFFFFF}{\text{𝚂𝚈𝚂𝚃𝙴𝙼 𝚂𝚃𝙰𝚃𝚄𝚂: 𝚃𝙷𝙴 𝚂𝙿𝙸𝚁𝙰𝙻 𝙸𝚂 𝙵𝙴𝙴𝙳𝙸𝙽𝙶... ᗒ}}$</code>
+  <code>$\color{#9D50BB}{\text{𝚂𝚈𝚂𝚃𝙴𝙼 𝚂𝚃𝙰𝚃𝚄𝚂: 𝙰𝙲𝚃𝙸𝚅𝙰𝚃𝙸𝙽𝙶 𝚅𝙸𝙱𝙴 𝙲𝙾𝙳𝙴... 🦾}}$</code>
 </p>
