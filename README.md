@@ -45,5 +45,5 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/andriish06/andriish06/master/codes.gif" width="100" style="filter: hue-rotate(240deg);">
   <br>
-  <code>$\color{#9D50BB}{\text{SYSTEM STATUS: ACTIVATING VIBE CODE... 🦾}}$</code>
+
 </p>
