@@ -39,7 +39,7 @@
 ### $\color{#24FE41}{\text{BLOCKCHAIN}}$
 * **BTC**: `bc1qf0gpzrz7sg5lun4z2eqmupksugv9p6weszy6zw`
 * **ETH**: `0x509c1066bab87ac69cad75fad6e93dc0e5c756c5`
-* **SOL**: `EtiqdswWL2w5mcEJrP9GeShUgjrzudxUHFFZv3kckCHu`
+* **SOL**: `HTLgxSLWdo2R4sPs53XjFmJwuLFYthohqpi5Rve6XyRj`
 
 ---
 
