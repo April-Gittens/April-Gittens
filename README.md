@@ -29,8 +29,8 @@ I'm a **SaaS developer** and founder shipping real products. I build AI-powered 
 ### 📊 Github Stats
 
 <p align="left">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=OmPatel5&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Om Patel's GitHub Stats" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=OmPatel5&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Om-Patel5&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Om Patel's GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Om-Patel5&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
