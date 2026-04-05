@@ -1,50 +1,55 @@
-# <p align="center">$\color{#9D50BB}{\text{✦ April Gittens | }}\color{#6E48AA}{\text{Electronics • }}\color{#24FE41}{\text{Robotics • }}\color{#00D2FF}{\text{Creative}}$</p>
+# Om Patel
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg?palette=github-dark&color_snake=%2324FE41&color_dots=%231A1A1A" alt="Colorful Snake Animation" width="100%">
+### 16-year-old SaaS Founder | Building in public
+
+Growing [bigideasdb.com](https://bigideasdb.com) ($10k/m) + [linkeddit.com](https://linkeddit.com) — AI-powered tools that help founders find validated problems and high-intent leads on Reddit.
+
+---
+
+### 🏗️ Me
+
+I'm a **SaaS developer** and founder shipping real products. I build AI-powered tools that solve painful problems for indie hackers and founders — turning raw data from Reddit, reviews, and conversations into actionable opportunities and leads.
+
+- **Current Focus:** Growing bigideasdb.com and linkeddit.com while building the next cool thing
+- **Core Edge:** Turning chaotic internet data into simple, profitable products
+
+---
+
+### 🛠️ Stack
+
+| Domain | Tools & Frameworks |
+| :--- | :--- |
+| **Backend & Systems** | ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white) ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white) ![NodeJS](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) |
+| **Automation & AI** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white) |
+| **Infrastructure** | ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white) |
+| **Data & Tools** | PostgreSQL, gRPC, NATS |
+
+---
+
+### 📊 Github Stats
+
+<p align="left">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=OmPatel5&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Om Patel's GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=OmPatel5&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Hardware-FF0080?style=for-the-badge&logo=arduino&logoColor=white" />
-  <img src="https://img.shields.io/badge/Robotics-7928CA?style=for-the-badge&logo=probot&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI_Agents-0070F3?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Building-24FE41?style=for-the-badge&logo=github&logoColor=black" />
-</p>
+---
 
-> <p align="center"><b>"Demystifying complex systems. It's never too late to start building."</b></p>
+### 🧬 What I'm Building
+
+* **bigideasdb.com** — AI-powered database of validated problems and SaaS opportunities scraped from real user complaints
+* **linkeddit.com** — AI tool that finds high-intent leads and experts on Reddit
+* Always experimenting with new AI automation and founder tools
 
 ---
 
-### $\color{#FF0080}{\text{THE MISSION}}$
-* **🦾 Robotics**: Designing and building custom quadrupedal robots and AI-powered hardware.
-* **🔌 Electronics**: Learning and explaining hardware fundamentals for the next generation of builders.
-* **🪄 Whimsy**: Blending the technical with the aesthetic to create "pretty wired builds".
+### 📲 Contact
+
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/om_patel5)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/OmPatel5)
 
 ---
 
-### $\color{#7928CA}{\text{CURRENT STACK}}$
-* **Hardware**: Custom PCB Design, Micro-controllers, and Actuators.
-* **Software**: AI Agent Layers and Vibe-coding for robotics.
-* **Education**: Simplifying "scary" engineering concepts for beginners.
+> **"Manual intervention is a bug. Autonomy is the feature."**
 
----
-
-### $\color{#0070F3}{\text{DIGITAL FOOTPRINT}}$
-* **🏗️ [prettywiredbuilds.com](https://www.prettywiredbuilds.com)** » Technical portfolio & build logs.
-* **📸 [@prettywiredbuilds](https://instagram.com/prettywiredbuilds)** » The laboratory & process.
-* **✨ [@mrs.aprilgittens](https://instagram.com/mrs.aprilgittens)** » The life and tales of a lady full of whimsy.
-
----
-
-### $\color{#24FE41}{\text{BLOCKCHAIN}}$
-* **BTC**: `bc1qf0gpzrz7sg5lun4z2eqmupksugv9p6weszy6zw`
-* **ETH**: `0x509c1066bab87ac69cad75fad6e93dc0e5c756c5`
-* **SOL**: `HTLgxSLWdo2R4sPs53XjFmJwuLFYthohqpi5Rve6XyRj`
-
----
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andriish06/andriish06/master/codes.gif" width="100" style="filter: hue-rotate(290deg);">
-  <br>
-
-</p>
+**⭐ Star if you're also building cool stuff.**
